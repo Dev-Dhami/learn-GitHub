@@ -7,3 +7,4 @@ console.log("3rd commit");
 console.log("feature 1st commit");
 
 console.log("bug first commit");
+console.log("bug second commit")
